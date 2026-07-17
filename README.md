@@ -13,3 +13,6 @@ Dual‑Battery Power Architecture:
 
 A microcontroller continuously monitors catalytic converter temperature and switches heating modes based on thresholds.
 MATLAB thermal simulations demonstrated up to 70% reduction in cold‑start emissions, validating the effectiveness of rapid pre‑heating.
+
+Patent Reference:
+https://patents.google.com/patent/US20220042437A1/en?oq=US20220042437A1
